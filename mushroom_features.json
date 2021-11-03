@@ -1,0 +1,145 @@
+[{"edibility":{
+    "weight":,
+    "edible=e":,
+    "poisonous=p":,
+}
+}
+,{"cap-surface":{"weight":,
+                "fibrous=f":,
+                "grooves=g":,
+                "scaly=y":,
+                "smooth=s":,
+                }
+}
+,{"cap-color":{ "weight":,
+                "brown=n":,
+                "buff=b":,
+                "cinnamon=c":,
+                "gray=g":,
+                "green=r":,
+                "pink=p":,
+                "purple=u":,
+                "red=e":,
+                "white=w":,
+                "yellow=y":,
+                }
+}
+,{"bruises?":{ "weight":,
+                "bruises=t":,
+                "no=f":,
+                }
+}
+,{"odor":{ "weight":,
+                "almond=a":,
+                "anise=l":,
+                "creosote=c":,
+                "fishy=y":,
+                "foul=f":,
+                "musty=m":,
+                "none=n":,
+                "pungent=p":,
+                "spicy=s":,
+                }
+}
+,{"gill-color":{ "weight":,
+                "black=k":,
+                "brown=n":,
+                "buff=b":,
+                "chocolate=h":,
+                "gray=g":,
+                "green=r":,
+                "orange=o":,
+                "pink=p":,
+                "purple=u":,
+                "red=e":,
+                "white=w":,
+                "yellow=y":,
+                }
+}
+,{" stalk-shape":{ "weight":,
+                "enlarging=e":,
+                "tapering=t":,
+                }
+}
+,{" stalk-root":{ "weight":,
+                "bulbous=b":,
+                "club=c":,
+                "cup=u":,
+                "equal=e":,
+                "rhizomorphs=z":,
+                "rooted=r":,
+                "missing=?":,
+                }
+}
+,{" stalk-surface-above-ring":{ "weight":,
+                "fibrous=f":,
+                "scaly=y":,
+                "silky=k":,
+                "smooth=s":,
+                }
+}
+,{" stalk-surface-below-ring":{ "weight":,
+                "fibrous=f":,
+                "scaly=y":,
+                "silky=k":,
+                "smooth=s":,
+                }
+}
+,{" stalk-color-above-ring":{ "weight":,
+                "brown=n":,
+                "buff=b":,
+                "cinnamon=c":,
+                "gray=g":,
+                "orange=o":,
+                "pink=p":,
+                "red=e":,
+                "white=w":,
+                "yellow=y":,
+                }
+}
+,{" stalk-color-below-ring":{ "weight":,
+                "brown=n":,
+                "buff=b":,
+                "cinnamon=c":,
+                "gray=g":,
+                "orange=o":,
+                "pink=p":,
+                "red=e":,
+                "white=w":,
+                "yellow=y":,
+                }
+}
+,{" veil-type":{ "weight":,
+                "partial=p":,
+                "universal=u":,
+                }
+}
+,{" veil-color":{ "weight":,
+                "brown=n":,
+                "orange=o":,
+                "white=w":,
+                "yellow=y":,
+                }
+}
+,{" spore-print-color":{ "weight":,
+                "black=k":,
+                "brown=n":,
+                "buff=b":,
+                "chocolate=h":,
+                "green=r":,
+                "orange=o":,
+                "purple=u":,
+                "white=w":,
+                "yellow=y":,
+                }
+}
+,{" habitat":{ "weight":,
+                "grasses=g":,
+                "leaves=l":,
+                "meadows=m":,
+                "paths=p":,
+                "urban=u":,
+                "waste=w":,
+                "woods=d":,
+                }
+                }]
