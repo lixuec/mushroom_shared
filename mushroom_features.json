@@ -1,145 +1,135 @@
 [{"edibility":{
-    "weight":,
-    "edible=e":,
-    "poisonous=p":,
+    "weight":1,
+    "e":1,
+    "p":1
 }
 }
-,{"cap-surface":{"weight":,
-                "fibrous=f":,
-                "grooves=g":,
-                "scaly=y":,
-                "smooth=s":,
-                }
+,{"cap-surface":{"weight":1,
+                "f":1,
+                "g":2,
+                "y":3,
+                "s":4
 }
-,{"cap-color":{ "weight":,
-                "brown=n":,
-                "buff=b":,
-                "cinnamon=c":,
-                "gray=g":,
-                "green=r":,
-                "pink=p":,
-                "purple=u":,
-                "red=e":,
-                "white=w":,
-                "yellow=y":,
-                }
 }
-,{"bruises?":{ "weight":,
-                "bruises=t":,
-                "no=f":,
-                }
+,{"cap-color":{ "weight":1,
+                "n":1,
+                "b":2,
+                "c":3,
+                "g":4,
+                "r":5,
+                "p":6,
+                "u":3,
+                "e":4,
+                "w":5,
+                "y":6
 }
-,{"odor":{ "weight":,
-                "almond=a":,
-                "anise=l":,
-                "creosote=c":,
-                "fishy=y":,
-                "foul=f":,
-                "musty=m":,
-                "none=n":,
-                "pungent=p":,
-                "spicy=s":,
-                }
 }
-,{"gill-color":{ "weight":,
-                "black=k":,
-                "brown=n":,
-                "buff=b":,
-                "chocolate=h":,
-                "gray=g":,
-                "green=r":,
-                "orange=o":,
-                "pink=p":,
-                "purple=u":,
-                "red=e":,
-                "white=w":,
-                "yellow=y":,
-                }
+,{"bruises?":{ "weight":1,
+                "t":2,
+                "f":3
 }
-,{" stalk-shape":{ "weight":,
-                "enlarging=e":,
-                "tapering=t":,
-                }
 }
-,{" stalk-root":{ "weight":,
-                "bulbous=b":,
-                "club=c":,
-                "cup=u":,
-                "equal=e":,
-                "rhizomorphs=z":,
-                "rooted=r":,
-                "missing=?":,
-                }
+,{"odor":{ "weight":3,
+                "a":4,
+                "l":5,
+                "c":6,
+                "y":1,
+                "f":3,
+                "m":4,
+                "n":5,
+                "p":6,
+                "s":1
 }
-,{" stalk-surface-above-ring":{ "weight":,
-                "fibrous=f":,
-                "scaly=y":,
-                "silky=k":,
-                "smooth=s":,
-                }
 }
-,{" stalk-surface-below-ring":{ "weight":,
-                "fibrous=f":,
-                "scaly=y":,
-                "silky=k":,
-                "smooth=s":,
-                }
+,{"gill-color":{ "weight":1,
+                "k":1,
+                "n":1,
+                "b":3,
+                "h":4,
+                "g":5,
+                "r":6,
+                "o":1,
+                "p":3,
+                "u":4,
+                "e":5,
+                "w":6,
+                "y":1
 }
-,{" stalk-color-above-ring":{ "weight":,
-                "brown=n":,
-                "buff=b":,
-                "cinnamon=c":,
-                "gray=g":,
-                "orange=o":,
-                "pink=p":,
-                "red=e":,
-                "white=w":,
-                "yellow=y":,
-                }
 }
-,{" stalk-color-below-ring":{ "weight":,
-                "brown=n":,
-                "buff=b":,
-                "cinnamon=c":,
-                "gray=g":,
-                "orange=o":,
-                "pink=p":,
-                "red=e":,
-                "white=w":,
-                "yellow=y":,
-                }
+,{"stalk-shape":{ "weight":1,
+                "e":2,
+                "t":1
 }
-,{" veil-type":{ "weight":,
-                "partial=p":,
-                "universal=u":,
-                }
 }
-,{" veil-color":{ "weight":,
-                "brown=n":,
-                "orange=o":,
-                "white=w":,
-                "yellow=y":,
-                }
+,{"stalk-surface-above-ring":{ "weight":1,
+                "f":3,
+                "y":4,
+                "k":5,
+                "s":6
 }
-,{" spore-print-color":{ "weight":,
-                "black=k":,
-                "brown=n":,
-                "buff=b":,
-                "chocolate=h":,
-                "green=r":,
-                "orange=o":,
-                "purple=u":,
-                "white=w":,
-                "yellow=y":,
-                }
 }
-,{" habitat":{ "weight":,
-                "grasses=g":,
-                "leaves=l":,
-                "meadows=m":,
-                "paths=p":,
-                "urban=u":,
-                "waste=w":,
-                "woods=d":,
-                }
-                }]
+,{"stalk-surface-below-ring":{ "weight":1,
+                "f":3,
+                "y":4,
+                "k":5,
+                "s":6
+}
+}
+,{"stalk-color-above-ring":{ "weight":1,
+                "n":1,
+                "b":3,
+                "c":4,
+                "g":5,
+                "o":6,
+                "p":3,
+                "e":4,
+                "w":5,
+                "y":6
+}
+}
+,{"stalk-color-below-ring":{ "weight":1,
+                "n":3,
+                "b":4,
+                "c":5,
+                "g":6,
+                "o":3,
+                "p":4,
+                "e":5,
+                "w":6,
+                "y":1
+}
+}
+,{"veil-type":{ "weight":1,
+                "p":4,
+                "u":1
+}
+}
+,{"veil-color":{ "weight":1,
+                "n":3,
+                "o":4,
+                "w":5,
+                "y":6
+}
+}
+,{"spore-print-color":{ "weight":1,
+                "k":3,
+                "n":4,
+                "b":5,
+                "h":6,
+                "r":3,
+                "o":4,
+                "u":5,
+                "w":6,
+                "y":1
+}
+}
+,{"habitat":{ "weight":1,
+                "g":3,
+                "l":4,
+                "m":5,
+                "p":6,
+                "u":1,
+                "w":1,
+                "d":1
+}
+}]
