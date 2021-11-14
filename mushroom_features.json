@@ -1,135 +1,166 @@
-[{"edibility":{
-    "weight":1,
-    "e":1,
-    "p":1
-}
-}
-,{"cap-surface":{"weight":1,
-                "f":1,
-                "g":2,
-                "y":3,
-                "s":4
-}
-}
-,{"cap-color":{ "weight":1,
-                "n":1,
-                "b":2,
-                "c":3,
-                "g":4,
-                "r":5,
-                "p":6,
-                "u":3,
-                "e":4,
-                "w":5,
-                "y":6
-}
-}
-,{"bruises?":{ "weight":1,
-                "t":2,
-                "f":3
-}
-}
-,{"odor":{ "weight":3,
-                "a":4,
-                "l":5,
-                "c":6,
-                "y":1,
-                "f":3,
-                "m":4,
-                "n":5,
-                "p":6,
-                "s":1
-}
-}
-,{"gill-color":{ "weight":1,
-                "k":1,
-                "n":1,
-                "b":3,
-                "h":4,
-                "g":5,
-                "r":6,
-                "o":1,
-                "p":3,
-                "u":4,
-                "e":5,
-                "w":6,
-                "y":1
-}
-}
-,{"stalk-shape":{ "weight":1,
-                "e":2,
-                "t":1
-}
-}
-,{"stalk-surface-above-ring":{ "weight":1,
-                "f":3,
-                "y":4,
-                "k":5,
-                "s":6
-}
-}
-,{"stalk-surface-below-ring":{ "weight":1,
-                "f":3,
-                "y":4,
-                "k":5,
-                "s":6
-}
-}
-,{"stalk-color-above-ring":{ "weight":1,
-                "n":1,
-                "b":3,
-                "c":4,
-                "g":5,
-                "o":6,
-                "p":3,
-                "e":4,
-                "w":5,
-                "y":6
-}
-}
-,{"stalk-color-below-ring":{ "weight":1,
-                "n":3,
-                "b":4,
-                "c":5,
-                "g":6,
-                "o":3,
-                "p":4,
-                "e":5,
-                "w":6,
-                "y":1
-}
-}
-,{"veil-type":{ "weight":1,
-                "p":4,
-                "u":1
-}
-}
-,{"veil-color":{ "weight":1,
-                "n":3,
-                "o":4,
-                "w":5,
-                "y":6
-}
-}
-,{"spore-print-color":{ "weight":1,
-                "k":3,
-                "n":4,
-                "b":5,
-                "h":6,
-                "r":3,
-                "o":4,
-                "u":5,
-                "w":6,
-                "y":1
-}
-}
-,{"habitat":{ "weight":1,
-                "g":3,
-                "l":4,
-                "m":5,
-                "p":6,
-                "u":1,
-                "w":1,
-                "d":1
-}
-}]
+[
+    {
+        "edibility": {
+            "weight": 1,
+            "e": 1,
+            "p": 1
+        }
+    },
+    {
+        "cap-surface": {
+            "weight": 2,
+            "f": 1,
+            "g": 1,
+            "y": 0,
+            "s": 1
+        }
+    },
+    {
+        "cap-color": {
+            "weight": 2,
+            "n": 1,
+            "b": 1,
+            "c": 0,
+            "g": 1,
+            "r": 0,
+            "p": 0,
+            "u": 0,
+            "e": 2,
+            "w": 3,
+            "y": 1
+        }
+    },
+    {
+        "bruises?": {
+            "weight": 2,
+            "t": 1,
+            "f": 2
+        }
+    },
+    {
+        "odor": {
+            "weight": 3,
+            "a": 1,
+            "l": 0,
+            "c": 0,
+            "y": 0,
+            "f": 0,
+            "m": 0,
+            "n": 2,
+            "p": 0,
+            "s": 1
+        }
+    },
+    {
+        "gill-color": {
+            "weight": 1,
+            "k": 0,
+            "n": 1,
+            "b": 1,
+            "h": 1,
+            "g": 1,
+            "r": 0,
+            "o": 0,
+            "p": 0,
+            "u": 0,
+            "e": 0,
+            "w": 2,
+            "y": 1
+        }
+    },
+    {
+        "stalk-shape": {
+            "weight": 1,
+            "e": 1,
+            "t": 0
+        }
+    },
+    {
+        "stalk-surface-above-ring": {
+            "weight": 1,
+            "f": 1,
+            "y": 0,
+            "k": 1,
+            "s": 2
+        }
+    },
+    {
+        "stalk-surface-below-ring": {
+            "weight": 1,
+            "f": 1,
+            "y": 0,
+            "k": 1,
+            "s": 2
+        }
+    },
+    {
+        "stalk-color-above-ring": {
+            "weight": 1,
+            "n": 0,
+            "b": 0,
+            "c": 0,
+            "g": 1,
+            "o": 0,
+            "p": 0,
+            "e": 0,
+            "w": 2,
+            "y": 1
+        }
+    },
+    {
+        "stalk-color-below-ring": {
+            "weight": 1,
+            "n": 0,
+            "b": 0,
+            "c": 0,
+            "g": 1,
+            "o": 0,
+            "p": 0,
+            "e": 0,
+            "w": 2,
+            "y": 1
+        }
+    },
+    {
+        "veil-type": {
+            "weight": 1,
+            "p": 1,
+            "u": 2
+        }
+    },
+    {
+        "veil-color": {
+            "weight": 1,
+            "n": 1,
+            "o": 0,
+            "w": 2,
+            "y": 1
+        }
+    },
+    {
+        "spore-print-color": {
+            "weight": 1,
+            "k": 0,
+            "n": 1,
+            "b": 0,
+            "h": 0,
+            "r": 0,
+            "o": 0,
+            "u": 0,
+            "w": 2,
+            "y": 1
+        }
+    },
+    {
+        "habitat": {
+            "weight": 3,
+            "g": 2,
+            "l": 1,
+            "m": 2,
+            "p": 1,
+            "u": 0,
+            "w": 0,
+            "d": 1
+        }
+    }
+]
